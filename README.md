@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Lnerd here. Welcome to the Github.
+Lnerd here. Welcome to the Github.
 
 <!--
 **lnerd/lnerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
