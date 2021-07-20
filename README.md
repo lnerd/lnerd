@@ -1,4 +1,3 @@
-[![Header](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Portuguese_Vaporwave_%28cropped%29.jpg/1200px-Portuguese_Vaporwave_%28cropped%29.jpg "Header")](https://lnerd.net/)
 ### Hi there 👋
 
 <!--
